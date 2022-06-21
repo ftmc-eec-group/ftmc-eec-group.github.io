@@ -1,4 +1,4 @@
-## Welcome to FTMC Electrochemical Energy Conversion Group Website
+## Welcome to the FTMC Electrochemical Energy Conversion Group Website
 
 You can use the [editor on GitHub](https://github.com/ftmc-eec-lab/ftmc-eec-lab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
